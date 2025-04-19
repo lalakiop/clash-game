@@ -2,4 +2,7 @@
 # 一般国内Apple肯定正常,不需要开代理
 DOMAIN-KEYWORD,onemt
 DOMAIN-KEYWORD,menaapp
-
+DOMAIN,firebaselogging.googleapis.com
+DOMAIN,graph.facebook.com
+DOMAIN,app.adjust.com
+IP-CIDR,47.74.18.255/32
