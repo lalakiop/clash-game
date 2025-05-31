@@ -3,3 +3,4 @@
 
 DOMAIN-KEYWORD,projecthelius
 DOMAIN-KEYWORD,heliusapi
+IP-CIDR,198.18.0.54/32,no-resolve
