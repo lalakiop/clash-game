@@ -3,4 +3,4 @@
 
 DOMAIN-KEYWORD,projecthelius
 DOMAIN-KEYWORD,heliusapi
-
+DST-PORT,27000-27100

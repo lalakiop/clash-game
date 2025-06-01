@@ -1,9 +1,5 @@
 # 鸣潮-港台
 # 一般国内Apple肯定正常,不需要开代理
 DOMAIN-KEYWORD,aki-game
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,symcb.com
-DOMAIN-SUFFIX,usertrust.com
-DOMAIN-SUFFIX,globalsign.com
-DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,kurogame.net
+DST-PORT,13100-13150
