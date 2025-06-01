@@ -6,3 +6,5 @@ DOMAIN,firebaselogging.googleapis.com
 DOMAIN,graph.facebook.com
 DOMAIN,app.adjust.com
 IP-CIDR,47.74.18.255/32
+DST-PORT,28888
+DST-PORT,2588
