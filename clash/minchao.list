@@ -1,5 +1,11 @@
 # 鸣潮-港台
 # 一般国内Apple肯定正常,不需要开代理
 DOMAIN-KEYWORD,aki-game
+DOMAIN-KEYWORD,nikke-kr
+DOMAIN-KEYWORD,intlgame
+DOMAIN-KEYWORD,playerinfinite
+DOMAIN-KEYWORD,fleetlogd
+DOMAIN-KEYWORD,jupiterlauncher
 DOMAIN-SUFFIX,kurogame.net
+DOMAIN-SUFFIX,sentry.io
 DST-PORT,13100-13150
